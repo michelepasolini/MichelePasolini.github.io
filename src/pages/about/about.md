@@ -1,10 +1,21 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Michele Pasolini"
+designation: "Supply Chain Expert"
+location: Dublin, Ireland
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+In the world of Supply Chain, I run like a flash,\
+Ten years of experience, but I never dash!\
+Every day stronger, with CrossFit in my soul,\
+At work, I train hard, sweating’s my goal.
+\
+\
+I collaborate with all, a teamwork pro,\
+In the group, I dive in, no one goes slow.\
+Quick solutions? Look, I'm already there!\
+If there's a problem, call me, I swear!\
+I learn every day, never stand still,\
+Solving problems? Easy, I will!\
+Always ready to help those in need,\
+Because the world needs a hero, and that's me indeed!

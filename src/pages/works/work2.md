@@ -1,22 +1,15 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: DEMAND PLANNER
+date: Feb 2022 - March 2024
+url: https://www.kelloggs.ie/en_IE/home.html
+location: Dublin, Ireland
+org: KELLOGG GROUP
 tags:
-  [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
-  ]
+  [ "Demand Forecasting", "Data Visibility","Process Automation"]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Led sales volume forecasting for short, medium, and long-term periods, ensuring financial alignment and fostering collaboration between sales and finance teams.
+
+- Improved data visibility and communication across supply chain teams and external partners through advanced reporting solutions, driving risk identification and performance improvements.
+
+- Developed dashboards to monitor long-term production forecasts, track lost sales due to supply issues, and streamlined processes for greater efficiency and automation.

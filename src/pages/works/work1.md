@@ -1,14 +1,15 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: CUSTOMER SUPPLY CHAIN MANAGER
+date: March 2024 - Oct 2024
+url: https://www.john-west.ie/
+location: Dublin, Ireland
+org: JOHN WEST (THAI UNION)
+tags: ["Demand Planning", "Logistics Management","Client Relationship"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Spearheaded customer service and relationship management with top-tier clients, driving optimal service levels, successful promotional buy-ins, and seamless range changes for major retailers.
+ 
+- Led demand planning and forecasting, ensuring product availability, integrating new product lines, and maintaining forecast accuracy within ±5%, crucial for sales and marketing efforts.
+ 
+- Managed logistics operations, including coordination with haulage companies and warehouse partners, ensuring timely deliveries and regulatory compliance with packaging tax regulations.
+
